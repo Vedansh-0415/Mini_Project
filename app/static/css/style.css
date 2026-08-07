@@ -125,7 +125,7 @@ h1 {
 }
 
 .sub {
-  color: var(--text-muted);
+  color: white(--text-muted);
   font-size: 15px;
   max-width: 700px;
   margin: 0 auto;
